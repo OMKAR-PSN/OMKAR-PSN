@@ -1,69 +1,49 @@
-<div align="center">
-
-# Hey, I'm Omkar Nikam 👋
-
-### Full-Stack Developer & AI Enthusiast
-
-**Web · AI · Mobile**
-
-[GitHub](https://github.com/OMKAR-PSN) · [Email](mailto:omkar.nikam3016@gmail.com)
-
-</div>
-
----
-
-```text
-omkar@github:~$ whoami
-Omkar Nikam
-
-omkar@github:~$ cat interests.txt
-Full-stack development
-Artificial intelligence
-Cross-platform applications
-
-omkar@github:~$ pwd
-Pune, India
-```
-
-## /about
-
-I'm a full-stack developer and AI enthusiast based in Pune, India. My interests span web development, AI applications, and mobile experiences.
-
-I work with **Next.js, Python, Flutter, TypeScript, and Supabase**.
-
-## /toolbox
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Omkar Nikam. Full-Stack Developer and AI Enthusiast. Web, AI, and mobile. Pune, India." />
 </p>
 
-## /projects
+<p align="center">
+  <a href="mailto:omkar.nikam3016@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-62EDC5?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1117" alt="Email Omkar" /></a>
+  &nbsp;
+  <a href="https://github.com/OMKAR-PSN?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-192B38?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
+</p>
 
-Explore a few repositories from my GitHub profile:
+### `01 / THE DEVELOPER`
 
-| Project | Language | Explore |
-| :--- | :--- | :--- |
-| **PRATINIDHI** | JavaScript | [View repository →](https://github.com/OMKAR-PSN/PRATINIDHI) |
-| **Saptanga** | TypeScript | [View repository →](https://github.com/OMKAR-PSN/Saptanga) |
-| **rag-chatbot** | Python | [View repository →](https://github.com/OMKAR-PSN/rag-chatbot) |
-| **Woodpeckers** | TypeScript | [View repository →](https://github.com/OMKAR-PSN/Woodpeckers) |
-| **corekonstruct-hub** | TypeScript | [View repository →](https://github.com/OMKAR-PSN/corekonstruct-hub) |
-| **MintMind_AI** | Dart | [View repository →](https://github.com/OMKAR-PSN/MintMind_AI) |
+I'm **Omkar**, a full-stack developer and AI enthusiast based in **Pune, India**. My interests meet where web applications, artificial intelligence, and mobile experiences come together.
 
-## /connect
+**My toolkit:** Next.js · TypeScript · Python · Flutter · Supabase
 
-Have an idea or want to connect?
+### `02 / TOOLS OF THE TRADE`
 
-**[Send me an email](mailto:omkar.nikam3016@gmail.com)** · **[Explore my repositories](https://github.com/OMKAR-PSN?tab=repositories)**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-14232E?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-14232E?style=for-the-badge&amp;logo=typescript&amp;logoColor=58B8FF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-14232E?style=for-the-badge&amp;logo=python&amp;logoColor=FFD675" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-14232E?style=for-the-badge&amp;logo=flutter&amp;logoColor=64D3FF" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Supabase-14232E?style=for-the-badge&amp;logo=supabase&amp;logoColor=62EDC5" alt="Supabase" />
+</p>
 
----
+### `03 / SELECTED REPOSITORIES`
 
-<div align="center">
+<p>
+  <a href="https://github.com/OMKAR-PSN/PRATINIDHI"><img src="assets/project-01.svg" width="49%" alt="PRATINIDHI — JavaScript. View repository." /></a>
+  <a href="https://github.com/OMKAR-PSN/Saptanga"><img src="assets/project-02.svg" width="49%" alt="Saptanga — TypeScript. View repository." /></a>
+</p>
 
-*Thanks for stopping by. Explore my pinned projects and contribution activity below.*
+<p>
+  <a href="https://github.com/OMKAR-PSN/rag-chatbot"><img src="assets/project-03.svg" width="49%" alt="rag-chatbot — Python. View repository." /></a>
+  <a href="https://github.com/OMKAR-PSN/Woodpeckers"><img src="assets/project-04.svg" width="49%" alt="Woodpeckers — TypeScript. View repository." /></a>
+</p>
 
-</div>
+<p>
+  <a href="https://github.com/OMKAR-PSN/corekonstruct-hub"><img src="assets/project-05.svg" width="49%" alt="corekonstruct-hub — TypeScript. View repository." /></a>
+  <a href="https://github.com/OMKAR-PSN/MintMind_AI"><img src="assets/project-06.svg" width="49%" alt="MintMind_AI — Dart. View repository." /></a>
+</p>
+
+### `04 / START A CONVERSATION`
+
+Interested in web, AI, or mobile development? **[Let's connect →](mailto:omkar.nikam3016@gmail.com)**
+
+<sub>Explore more of my work in the pinned repositories and contribution activity below.</sub>
+
