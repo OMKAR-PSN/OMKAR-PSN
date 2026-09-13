@@ -1,1 +1,22 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460">
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#16313b" stroke-width="1"/></pattern><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a151e"/><stop offset="1" stop-color="#101e2b"/></linearGradient></defs>
+<rect width="1200" height="460" rx="20" fill="url(#bg)"/><rect width="1200" height="460" rx="20" fill="url(#grid)" opacity=".5"/>
+<path d="M44 72V44H72M1128 44h28v28M44 388v28h28M1128 416h28v-28" fill="none" stroke="#55e6bf" stroke-width="2"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="70" y="70" width="214" height="30" rx="15" fill="#143931"/><circle cx="88" cy="85" r="4" fill="#62edc5"/><text x="101" y="90" fill="#91f2d7" font-family="Consolas,monospace" font-size="12" letter-spacing="2">OMKAR-PSN / README</text>
+<text x="68" y="179" font-size="64" font-weight="700" fill="#eff8fb">Omkar Nikam<tspan fill="#62edc5">.</tspan></text>
+<text x="72" y="223" font-size="23" fill="#a8beca">Full-Stack Developer &amp; AI Enthusiast</text>
+<path d="M72 255h56" stroke="#62edc5" stroke-width="3"/>
+<text x="72" y="291" font-size="18" fill="#dce9ef">Code. Explore. Build something useful.</text>
+<text x="72" y="359" font-family="Consolas,monospace" font-size="14" fill="#70dac1" letter-spacing="2">WEB / AI / MOBILE</text>
+<text x="72" y="387" font-family="Consolas,monospace" font-size="12" fill="#7d98aa">PUNE, INDIA  ·  NEXT.JS + PYTHON + FLUTTER</text>
+</g>
+<g transform="translate(760 90)">
+<circle cx="176" cy="145" r="142" fill="none" stroke="#264353" stroke-dasharray="4 9"/><ellipse cx="176" cy="145" rx="164" ry="63" fill="none" stroke="#2a635e" transform="rotate(-35 176 145)"/>
+<rect x="13" y="45" width="302" height="201" rx="12" fill="#071119" stroke="#37615e" stroke-width="2"/>
+<path d="M13 78h302" stroke="#28414b"/><circle cx="31" cy="62" r="4" fill="#f49b82"/><circle cx="46" cy="62" r="4" fill="#e8c57b"/><circle cx="61" cy="62" r="4" fill="#62edc5"/>
+<g font-family="Consolas,monospace" font-size="14"><text x="34" y="108" fill="#7e9eae">~/omkar/workspace</text><text x="34" y="143" fill="#62edc5">&gt; build --with-curiosity</text><text x="34" y="174" fill="#dce9ef">[ web ]  [ ai ]  [ mobile ]</text><text x="34" y="213" fill="#7e9eae">ideas → code → possibilities</text></g>
+<path d="M-5 262h340l-25 18H20Z" fill="#18323d" stroke="#37615e"/>
+<rect x="251" y="4" width="89" height="45" rx="8" fill="#163c33" stroke="#4da88c"/><text x="269" y="33" font-family="Consolas,monospace" font-size="22" fill="#8ef2cf">&lt;/&gt;</text>
+<circle cx="11" cy="242" r="6" fill="#62edc5"/>
+</g></svg>
